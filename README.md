@@ -2,7 +2,7 @@
 
 Facial features extraction was done using dlib's pre trained model.
 
-You may have to install dlib, OpenCV-contrib-python, boost-python modules to run this project.
+You may have to install Anaconda, Jupyter notebook, dlib, OpenCV-contrib-python, boost-python modules to run this project.
 
 Downloading any standard dataset for emotion recognistion should work.
 
